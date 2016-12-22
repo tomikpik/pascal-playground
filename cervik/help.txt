@@ -1,0 +1,11 @@
+Pravidla hry:
+1 HRAC - vasim ukolem je sbirat jidlo
+(pozor! nesbirat zelenou vodu a seda
+srdce - ubira body); Cilem je
+zvladnout vsech 10 urovni v co 
+nejkratsim case.
+2 HRACI - kazdy hrac si zvoli barvu;
+Hrác c.1 (w,s,a,d), Hrac c.2 (^,v,<,>)
+vyhrava ten, kdo prvni dosahne 150
+bodu, nebo ten kdo nenarazi do zdi,
+ci prekazky. 
